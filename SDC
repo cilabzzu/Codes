@@ -1,1 +1,7 @@
-After SDC benchmark paper has been accpeted, code will be available. 
+The files are codes of paper "K. J. Qiao, J. Liang, K. J. Yu, C. T. Yue, H. Y. Lin, D. Z. Zhang, B. Y. Qu, Evolutionary constrained multiobjective optimization: scalable high-dimensional constraint benchmarks and algorithm, IEEE Transactions on Evolutionary Computation, 2023, doi: 10.1109/TEVC.2023.3281666.".
+
+We provide codes for PlatEMO 3.x version and 4.x version respectively.
+
+PlatEMO can be downloaded from https://github.com/BIMK/PlatEMO.
+
+If you have any question, please email qiaokangjia@yeah.net.
